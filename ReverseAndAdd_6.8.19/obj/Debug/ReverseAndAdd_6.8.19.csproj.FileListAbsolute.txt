@@ -1,0 +1,7 @@
+C:\code\ReverseAndAdd_6.8.19\ReverseAndAdd_6.8.19\bin\Debug\ReverseAndAdd_6.8.19.exe.config
+C:\code\ReverseAndAdd_6.8.19\ReverseAndAdd_6.8.19\bin\Debug\ReverseAndAdd_6.8.19.exe
+C:\code\ReverseAndAdd_6.8.19\ReverseAndAdd_6.8.19\bin\Debug\ReverseAndAdd_6.8.19.pdb
+C:\code\ReverseAndAdd_6.8.19\ReverseAndAdd_6.8.19\obj\Debug\ReverseAndAdd_6.8.19.csprojAssemblyReference.cache
+C:\code\ReverseAndAdd_6.8.19\ReverseAndAdd_6.8.19\obj\Debug\ReverseAndAdd_6.8.19.csproj.CoreCompileInputs.cache
+C:\code\ReverseAndAdd_6.8.19\ReverseAndAdd_6.8.19\obj\Debug\ReverseAndAdd_6.8.19.exe
+C:\code\ReverseAndAdd_6.8.19\ReverseAndAdd_6.8.19\obj\Debug\ReverseAndAdd_6.8.19.pdb
